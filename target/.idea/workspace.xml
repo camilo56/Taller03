@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be871b43-49c0-4c6f-a97f-84e2e5984eef" name="Default Changelist" comment="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Desarrollo" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1tiF68MsLeiT7EXhPmfrDFib4EQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be871b43-49c0-4c6f-a97f-84e2e5984eef" name="Default Changelist" comment="" />
+      <created>1623243825806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623243825806</updated>
+    </task>
+    <task id="LOCAL-00001" summary="committ UML">
+      <created>1623244115228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623244115228</updated>
+    </task>
+    <task id="LOCAL-00002" summary="committ UML">
+      <created>1623244272425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623244272425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="committ UML">
+      <created>1623244335918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623244335918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creacion de la clase Ram">
+      <created>1623245582223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623245582223</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creacion de la clase Ram">
+      <created>1623245651810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623245651810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creacion de la clase Ram&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;">
+      <created>1623245707179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623245707179</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creacion de la clase Computador y getter and setter&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;">
+      <created>1623247362923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623247362923</updated>
+    </task>
+    <task id="LOCAL-00008" summary="case ventanbaConsola y clase validador implementado&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;">
+      <created>1623250941706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623250941706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="case ventanbaConsola y clase validador implementado&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;">
+      <created>1623251089899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623251089899</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo">
+      <created>1623251111847</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623251111847</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo">
+      <created>1623251210823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623251210823</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;">
+      <created>1623251218176</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623251218176</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo">
+      <created>1623251231778</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623251231778</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committ UML" />
+    <MESSAGE value="Creacion de la clase Ram" />
+    <MESSAGE value="Creacion de la clase Ram&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;" />
+    <MESSAGE value="Creacion de la clase Computador y getter and setter&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;" />
+    <MESSAGE value="case ventanbaConsola y clase validador implementado&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo&#10;&#10;Signed-off-by: camilo56 &lt;76082597+camilo56@users.noreply.github.com&gt;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Desarrollo' into Desarrollo" />
+  </component>
+</project>
