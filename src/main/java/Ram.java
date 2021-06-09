@@ -3,11 +3,19 @@ public class Ram {
     private int capacidad=0;
     private int frecuancia=0;
 
+
+
+
     public Ram() {
         this.frecuancia = frecuancia;
         this.marca = marca;
         this.capacidad = capacidad;
     }
+
+    public Ram(String marca,int capacidad,int frecuancia) {
+        this.frecuancia = frecuancia;
+        this.marca = marca;
+        this.capacidad = capacidad;    }
 
     public String getMarca() {
         return marca;
